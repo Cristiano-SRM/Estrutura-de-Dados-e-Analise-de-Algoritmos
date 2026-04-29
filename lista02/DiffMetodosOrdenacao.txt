@@ -1,0 +1,7 @@
+Exemplos de vetores para o exercicio 3:
+
+Quase Ordenado = 1, 2, 3, 5, 4, 6, 7
+
+Parcialmente Ordenado = 3, 1, 4, 2, 7, 5, 6
+
+Inverso = 7, 6, 5, 4, 3, 2, 1
